@@ -4,4 +4,4 @@ A Simple Open-Source, In-Browser, Mock VSCode Editor.
 
 Mainly to demonstrate react functionality however feel free to clone, add features, or send pull requests if interested
 
-Plans for final product: - Redux - Auth - Unit Tested - Atomic Design
+Plans for final product: - Complex Redux - Auth - Unit Tested - Atomic Design
